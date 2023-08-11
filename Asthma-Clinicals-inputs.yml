@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/asthma-clinicals-exercise---primary.py
+inputModule3:
+  class: File
+  path: python/asthma-clinicals---primary.py
+inputModule4:
+  class: File
+  path: python/asthma-clinicals-induced---primary.py
+inputModule5:
+  class: File
+  path: python/asthma-clinicals-resolved---primary.py
+inputModule6:
+  class: File
+  path: python/asthma---primary.py
+inputModule7:
+  class: File
+  path: python/extrinsic-asthma-clinicals---primary.py
+inputModule8:
+  class: File
+  path: python/allergic-asthma-clinicals---primary.py
+inputModule9:
+  class: File
+  path: python/asthma-clinicals-fever---primary.py
+inputModule10:
+  class: File
+  path: python/asthma-clinicals-attack---primary.py
+inputModule11:
+  class: File
+  path: python/intrinsic-asthma-clinicals---primary.py
+inputModule12:
+  class: File
+  path: python/asthma-clinicals-sequoiosis---primary.py
+inputModule13:
+  class: File
+  path: python/asthma-clinicals-severity---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
